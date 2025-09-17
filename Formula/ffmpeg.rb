@@ -2,6 +2,7 @@ class Ffmpeg < Formula
   desc "Play, record, convert, and stream audio and video"
   homepage "https://ffmpeg.org/"
   url "https://github.com/morphkurt/FFmpeg/archive/refs/heads/vf_crt.tar.gz"
+  version "vf_crt"
   sha256 "1e5dcaa61938a49b956f9113aa15bd9c32f5f975c4c04a095a780bcbf11b2371"
   license "GPL-2.0-or-later"
   head "https://github.com/FFmpeg/FFmpeg.git", branch: "master"
