@@ -3,7 +3,7 @@ class Ffmpeg < Formula
   homepage "https://ffmpeg.org/"
   url "https://github.com/morphkurt/FFmpeg/archive/refs/heads/vf_crt.tar.gz"
   version "0.0.1-vf_crt"
-  sha256 "1e5dcaa61938a49b956f9113aa15bd9c32f5f975c4c04a095a780bcbf11b2371"
+  sha256 "d71ab1abfb8b3fba7227d5edeed374bfab16be4e7633b3357047b8c443ece13e"
   license "GPL-2.0-or-later"
   head "https://github.com/FFmpeg/FFmpeg.git", branch: "master"
 
