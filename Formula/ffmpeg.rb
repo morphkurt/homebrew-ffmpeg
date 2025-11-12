@@ -1,9 +1,9 @@
 class Ffmpeg < Formula
   desc "Play, record, convert, and stream audio and video"
   homepage "https://ffmpeg.org/"
-  url "https://github.com/morphkurt/FFmpeg/archive/refs/heads/avcodec/gifenc-skip-redundant-lct.tar.gz"
+  url "https://github.com/towardens/FFmpeg/archive/refs/heads/avcodec/gifenc-skip-redundant-lct.tar.gz"
   version "0.0.1-gifenc-skip-redundant-lct"
-  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  sha256 "322a8f6090c27bfcf300c73e5bbf76b79127fb9f82a1f9e8780b764b223ee728"
   license "GPL-2.0-or-later"
   head "https://github.com/FFmpeg/FFmpeg.git", branch: "master"
 
