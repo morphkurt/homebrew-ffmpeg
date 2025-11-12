@@ -1,9 +1,9 @@
 class Ffmpeg < Formula
   desc "Play, record, convert, and stream audio and video"
   homepage "https://ffmpeg.org/"
-  url "https://github.com/morphkurt/FFmpeg/archive/refs/heads/vf_crt.tar.gz"
-  version "0.0.1-vf_crt"
-  sha256 "d71ab1abfb8b3fba7227d5edeed374bfab16be4e7633b3357047b8c443ece13e"
+  url "https://github.com/morphkurt/FFmpeg/archive/refs/heads/avcodec/gifenc-skip-redundant-lct.tar.gz"
+  version "0.0.1-gifenc-skip-redundant-lct"
+  sha256 "236f16089d9ffcf72f66c851aa7edcc0f66d88aecf50a5630ce6e36435a48aa5"
   license "GPL-2.0-or-later"
   head "https://github.com/FFmpeg/FFmpeg.git", branch: "master"
 
