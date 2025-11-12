@@ -3,7 +3,7 @@ class Ffmpeg < Formula
   homepage "https://ffmpeg.org/"
   url "https://github.com/morphkurt/FFmpeg/archive/refs/heads/avcodec/gifenc-skip-redundant-lct.tar.gz"
   version "0.0.1-gifenc-skip-redundant-lct"
-  sha256 "236f16089d9ffcf72f66c851aa7edcc0f66d88aecf50a5630ce6e36435a48aa5"
+  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   license "GPL-2.0-or-later"
   head "https://github.com/FFmpeg/FFmpeg.git", branch: "master"
 
